@@ -1,5 +1,8 @@
 node_modules/
 .idea/
-yarn.lock
 yarn-error.log
 package-lock.json
+public/bundle.js
+public/bundle.js.map
+public/main.css
+public/main.css.map
